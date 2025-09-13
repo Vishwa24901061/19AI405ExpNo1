@@ -1,4 +1,4 @@
-[[<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: KAVIYA D </h3>
 <h3>Register Number: 212223040089 </h3>
 
@@ -249,4 +249,4 @@ if   __name__ == "__main__":
 
 <H6>RESULT: </H6>
 the PEAS description for the given AI problem and develop an AI agent is executed successfully.
-](https://github.com/natsaravanan/19AI405ExpNo1)](https://github.com/natsaravanan/19AI405ExpNo1)
+
